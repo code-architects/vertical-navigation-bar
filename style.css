@@ -60,33 +60,8 @@ body {
     padding: 0 20px;
     overflow: visible;
 }
-.home {
-    background: #132A13;
-}
-.home span {
-    background: #132A13;
-}
-.about {
-    background: #31572C;
-}
-.about span {
-    background: #31572C;
-}
-.services {
-    background: #4F772D;
-}
-.services span {
-    background: #4F772D;
-}
-.portfolio {
-    background: #709041;
-}
-.portfolio span {
-    background: #709041;
-}
-.contact {
-    background: #96AE5A;
-}
-.contact span {
-    background: #96AE5A;
-}
+.home, .home span { background: #132A13; }
+.about, .about span { background: #31572C; }
+.services, .services span { background: #4F772D; }
+.portfolio, .portfolio span { background: #709041; }
+.contact, .contact span { background: #96AE5A; }
